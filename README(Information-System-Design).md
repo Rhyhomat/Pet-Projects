@@ -117,7 +117,7 @@
 ### 4.3. BSA02_Requirements
 **Фокус:** as-is/to-be, контекст, входные/выходные потоки.
 
-- [`BSA02_Requirements/ex00__HAIR_asis.pdf`](BSA02_Requirements/ex00__HAIR_asis.pdf)  
+- [`BSA02_Requirements/ex00__HAIR_asis.pdf`](BSA02_Requirements/ex00__HAIR__asis.pdf)  
   В рамках задания описаны роли и действия в текущем процессе (**as-is**) для **HAIR**.  
   Навыки: фиксация текущего состояния, выявление проблемных точек.
 
