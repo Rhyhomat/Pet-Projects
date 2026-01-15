@@ -51,7 +51,7 @@
 ### 4.1. BSA00_Decomposition
 **Фокус:** вход в предметную область, источники, глоссарии, декомпозиция.
 
-- [`BSA00_Decomposition/HAIR/ex01__HAIR__infosources.pdf`](BSA00_Decomposition/HAIR/ex01__HAIR__%20infosources.pdf)  
+- [`BSA00_Decomposition/HAIR/ex01__HAIR__infosources.pdf`](BSA00_Decomposition/HAIR/ex01__HAIR__infosources.pdf)  
   В рамках задания определены и зафиксированы источники информации по домену **HAIR** (какие артефакты/люди/документы используются для сбора требований).  
   Навыки: discovery, работа с источниками, формирование базы для elicitation.
 
