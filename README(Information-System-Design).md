@@ -88,27 +88,27 @@
 ### 4.2. BSA01_Stakeholders
 **Фокус:** стейкхолдеры, окружение системы, потребности.
 
-- [`BSA01_Stakeholders/ex00__SHOP_stakeholders.pdf`](BSA01_Stakeholders/ex00__SHOP_stakeholders.pdf)  
+- [`BSA01_Stakeholders/ex00__SHOP__stakeholders.pdf`](BSA01_Stakeholders/ex00__SHOP_stakeholders.pdf)  
   В рамках задания составлен перечень стейкхолдеров системы **SHOP** с их ролями/интересами.  
   Навыки: stakeholder analysis, идентификация влияния.
 
-- [`BSA01_Stakeholders/ex01__SHOP_onion.svg`](BSA01_Stakeholders/ex01__SHOP_onion.svg)  
+- [`BSA01_Stakeholders/ex01__SHOP__onion.svg`](BSA01_Stakeholders/ex01__SHOP_onion.svg)  
   В файле построена **onion diagram** для **SHOP** (слои окружения: ядро/взаимодействующие/внешние).  
   Навыки: определение границ системы, контекстное моделирование.
 
-- [`BSA01_Stakeholders/ex02__HAIR_needs.pdf`](BSA01_Stakeholders/ex02__HAIR_needs.pdf)  
+- [`BSA01_Stakeholders/ex02__HAIR__needs.pdf`](BSA01_Stakeholders/ex02__HAIR_needs.pdf)  
   В рамках задания выявлены потребности/боли стейкхолдеров домена **HAIR**.  
   Навыки: elicitation, формулировка проблем и ожиданий.
 
-- [`BSA01_Stakeholders/ex02__SHOP_needs.pdf`](BSA01_Stakeholders/ex02__SHOP_needs.pdf)  
+- [`BSA01_Stakeholders/ex02__SHOP__needs.pdf`](BSA01_Stakeholders/ex02__SHOP_needs.pdf)  
   В рамках задания выявлены потребности/боли стейкхолдеров домена **SHOP**.  
   Навыки: elicitation, приоритизация потребностей.
 
-- [`BSA01_Stakeholders/ex03__HAIR_glossary.pdf`](BSA01_Stakeholders/ex03__HAIR_glossary.pdf)  
+- [`BSA01_Stakeholders/ex03__HAIR__glossary.pdf`](BSA01_Stakeholders/ex03__HAIR_glossary.pdf)  
   В рамках задания актуализирован глоссарий **HAIR** после анализа стейкхолдеров.  
   Навыки: управление изменениями терминологии.
 
-- [`BSA01_Stakeholders/ex03__SHOP_glossary.pdf`](BSA01_Stakeholders/ex03__SHOP_glossary.pdf)  
+- [`BSA01_Stakeholders/ex03__SHOP__glossary.pdf`](BSA01_Stakeholders/ex03__SHOP_glossary.pdf)  
   В рамках задания актуализирован глоссарий **SHOP** после анализа стейкхолдеров.  
   Навыки: согласование понятий между участниками.
 
