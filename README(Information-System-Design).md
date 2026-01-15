@@ -121,35 +121,35 @@
   В рамках задания описаны роли и действия в текущем процессе (**as-is**) для **HAIR**.  
   Навыки: фиксация текущего состояния, выявление проблемных точек.
 
-- [`BSA02_Requirements/ex00__SHOP_asis.pdf`](BSA02_Requirements/ex00__SHOP_asis.pdf)  
+- [`BSA02_Requirements/ex00__SHOP_asis.pdf`](BSA02_Requirements/ex00__SHOP__asis.pdf)  
   В рамках задания описаны роли и действия (**as-is**) для **SHOP**.  
   Навыки: анализ текущих процессов.
 
-- [`BSA02_Requirements/ex01__SHOP_context.svg`](BSA02_Requirements/ex01__SHOP_context.svg)  
+- [`BSA02_Requirements/ex01__SHOP_context.svg`](BSA02_Requirements/ex01__SHOP__context.svg)  
   В файле описан контекст системы **SHOP** (внешние акторы/системы и взаимодействия).  
   Навыки: контекстное моделирование, границы системы.
 
-- [`BSA02_Requirements/ex02__HAIR_tobe.pdf`](BSA02_Requirements/ex02__HAIR_tobe.pdf)  
+- [`BSA02_Requirements/ex02__HAIR_tobe.pdf`](BSA02_Requirements/ex02__HAIR__tobe.pdf)  
   В рамках задания разработано целевое состояние (**to-be**) для **HAIR** с учетом проблем/потребностей.  
   Навыки: проектирование будущего процесса, формирование требований.
 
-- [`BSA02_Requirements/ex02__SHOP_tobe.pdf`](BSA02_Requirements/ex02__SHOP_tobe.pdf)  
+- [`BSA02_Requirements/ex02__SHOP_tobe.pdf`](BSA02_Requirements/ex02__SHOP__tobe.pdf)  
   В рамках задания разработано **to-be** для **SHOP**.  
   Навыки: улучшение процессов, формулировка целевых изменений.
 
-- [`BSA02_Requirements/ex03__HAIR_streams.pdf`](BSA02_Requirements/ex03__HAIR_streams.pdf)  
+- [`BSA02_Requirements/ex03__HAIR_streams.pdf`](BSA02_Requirements/ex03__HAIR__streams.pdf)  
   В рамках задания описаны входные/выходные потоки данных системы **HAIR**.  
   Навыки: data-flow thinking, подготовка к интеграциям/данным.
 
-- [`BSA02_Requirements/ex03__SHOP_streams.pdf`](BSA02_Requirements/ex03__SHOP_streams.pdf)  
+- [`BSA02_Requirements/ex03__SHOP_streams.pdf`](BSA02_Requirements/ex03__SHOP__streams.pdf)  
   В рамках задания описаны потоки данных **SHOP**.  
   Навыки: определение границ данных и взаимодействий.
 
-- [`BSA02_Requirements/ex04__HAIR_glossary.pdf`](BSA02_Requirements/ex04__HAIR_glossary.pdf)  
+- [`BSA02_Requirements/ex04__HAIR_glossary.pdf`](BSA02_Requirements/ex04__HAIR__glossary.pdf)  
   В рамках задания обновлен глоссарий **HAIR** по итогам требований.  
   Навыки: управление знаниями, согласование терминов.
 
-- [`BSA02_Requirements/ex04__SHOP_glossary.pdf`](BSA02_Requirements/ex04__SHOP_glossary.pdf)  
+- [`BSA02_Requirements/ex04__SHOP_glossary.pdf`](BSA02_Requirements/ex04__SHOP__glossary.pdf)  
   В рамках задания обновлен глоссарий **SHOP**.  
   Навыки: единая терминология требований.
 
