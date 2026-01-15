@@ -104,11 +104,11 @@
   В рамках задания выявлены потребности/боли стейкхолдеров домена **SHOP**.  
   Навыки: elicitation, приоритизация потребностей.
 
-- [`BSA01_Stakeholders/ex03__HAIR__glossary.pdf`](BSA01_Stakeholders/ex03__HAIR_glossary.pdf)  
+- [`BSA01_Stakeholders/ex03__HAIR__glossary.pdf`](BSA01_Stakeholders/ex03__HAIR__glossary.pdf)  
   В рамках задания актуализирован глоссарий **HAIR** после анализа стейкхолдеров.  
   Навыки: управление изменениями терминологии.
 
-- [`BSA01_Stakeholders/ex03__SHOP__glossary.pdf`](BSA01_Stakeholders/ex03__SHOP_glossary.pdf)  
+- [`BSA01_Stakeholders/ex03__SHOP__glossary.pdf`](BSA01_Stakeholders/ex03__SHOP__glossary.pdf)  
   В рамках задания актуализирован глоссарий **SHOP** после анализа стейкхолдеров.  
   Навыки: согласование понятий между участниками.
 
