@@ -88,7 +88,7 @@
 ### 4.2. BSA01_Stakeholders
 **Фокус:** стейкхолдеры, окружение системы, потребности.
 
-- [`BSA01_Stakeholders/ex00__SHOP__stakeholders.pdf`](BSA01_Stakeholders/ex00__SHOP_stakeholders.pdf)  
+- [`BSA01_Stakeholders/ex00__SHOP__stakeholders.pdf`](BSA01_Stakeholders/ex00__SHOP__stakeholders.pdf)  
   В рамках задания составлен перечень стейкхолдеров системы **SHOP** с их ролями/интересами.  
   Навыки: stakeholder analysis, идентификация влияния.
 
