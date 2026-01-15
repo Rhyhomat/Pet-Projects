@@ -92,7 +92,7 @@
   В рамках задания составлен перечень стейкхолдеров системы **SHOP** с их ролями/интересами.  
   Навыки: stakeholder analysis, идентификация влияния.
 
-- [`BSA01_Stakeholders/ex01__SHOP__onion.svg`](BSA01_Stakeholders/ex01__SHOP_onion.svg)  
+- [`BSA01_Stakeholders/ex01__SHOP__onion.svg`](BSA01_Stakeholders/ex01__SHOP__onion.svg)  
   В файле построена **onion diagram** для **SHOP** (слои окружения: ядро/взаимодействующие/внешние).  
   Навыки: определение границ системы, контекстное моделирование.
 
