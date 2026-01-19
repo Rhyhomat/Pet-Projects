@@ -338,7 +338,7 @@
   В рамках задания сформированы User Stories для роли **Manager** в домене **HAIR**.  
   Навыки: user-centric требования, ценность/цель, критерии приемки.
 
-- [`BSA07_UserStory/ex01_HAIR_us_Client, Guest Website Visitor, Master, Accountant_.pdf`](BSA07_UserStory/ex01__HAIR__us__Client,20%Guest20%Website20%Visitor,20%Master,20%Accountant_.pdf)  
+- [`BSA07_UserStory/ex01_HAIR_us_Client, Guest Website Visitor, Master, Accountant_.pdf`](BSA07_UserStory/ex01__HAIR__us__Client, Guest Website Visitor, Master, Accountant_.pdf)  
   В рамках задания сформированы User Stories для ролей: Client / Guest Website Visitor / Master / Accountant.  
   Навыки: покрытие ролей, согласование ожиданий разных пользователей.
 
