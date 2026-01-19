@@ -179,31 +179,31 @@
 ### 4.5. BSA04_Domains
 **Фокус:** сущности, CRUD-валидация, словарь данных, ER-модель.
 
-- [`BSA04_Domains/ex00__HAIR_entity.pdf`](BSA04_Domains/ex00__HAIR_entity.pdf)  
+- [`BSA04_Domains/ex00__HAIR_entity.pdf`](BSA04_Domains/ex00__HAIR__entity.pdf)  
   В рамках задания выделены сущности домена **HAIR**.  
   Навыки: domain modeling, выявление объектов предметной области.
 
-- [`BSA04_Domains/ex00__SHOP_entity.pdf`](BSA04_Domains/ex00__SHOP_entity.pdf)  
+- [`BSA04_Domains/ex00__SHOP_entity.pdf`](BSA04_Domains/ex00__SHOP__entity.pdf)  
   В рамках задания выделены сущности домена **SHOP**.  
   Навыки: domain modeling.
 
-- [`BSA04_Domains/ex01__HAIR_crud.pdf`](BSA04_Domains/ex01__HAIR_crud.pdf)  
+- [`BSA04_Domains/ex01__HAIR_crud.pdf`](BSA04_Domains/ex01__HAIR__crud.pdf)  
   В рамках задания построена CRUD-матрица для ключевых сущностей **HAIR**.  
   Навыки: валидация полноты требований, распределение операций по ролям/процессам.
 
-- [`BSA04_Domains/ex02__HAIR_dict.pdf`](BSA04_Domains/ex02__HAIR_dict.pdf)  
+- [`BSA04_Domains/ex02__HAIR_dict.pdf`](BSA04_Domains/ex02__HAIR__dict.pdf)  
   В рамках задания составлен словарь данных (атрибуты сущностей/справочников) для **HAIR**.  
   Навыки: спецификация данных, атрибутный уровень требований.
 
-- [`BSA04_Domains/ex02__SHOP_dict.pdf`](BSA04_Domains/ex02__SHOP_dict.pdf)  
+- [`BSA04_Domains/ex02__SHOP_dict.pdf`](BSA04_Domains/ex02__SHOP__dict.pdf)  
   В рамках задания составлен словарь данных для **SHOP**.  
   Навыки: data dictionary.
 
-- [`BSA04_Domains/ex03__HAIR_model.svg`](BSA04_Domains/ex03__HAIR_model.svg)  
+- [`BSA04_Domains/ex03__HAIR_model.svg`](BSA04_Domains/ex03__HAIR__model.svg)  
   В файле построена логическая модель данных (ERD) для **HAIR**.  
   Навыки: ERD/relationships, нормализация на уровне концепта.
 
-- [`BSA04_Domains/ex03__SHOP_model.svg`](BSA04_Domains/ex03__SHOP_model.svg)  
+- [`BSA04_Domains/ex03__SHOP_model.svg`](BSA04_Domains/ex03__SHOP__model.svg)  
   В файле построена логическая модель данных (ERD) для **SHOP**.  
   Навыки: проектирование данных.
 
