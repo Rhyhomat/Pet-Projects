@@ -158,19 +158,19 @@
 ### 4.4. BSA03_HowToRequirements
 **Фокус:** техники выявления требований (SHOP), Vision.
 
-- [`BSA03_HowToRequirements/ex00__SHOP_rolegame.pdf`](BSA03_HowToRequirements/ex00__SHOP_rolegame.pdf)  
+- [`BSA03_HowToRequirements/ex00__SHOP_rolegame.pdf`](BSA03_HowToRequirements/ex00__SHOP__rolegame.pdf)  
   В рамках задания описана техника **role game** для выявления требований **SHOP** (сценарии взаимодействия ролей).  
   Навыки: facilitation, интервью/воркшопы, выявление требований через сценарии.
 
-- [`BSA03_HowToRequirements/ex01__SHOP_brainstorming.pdf`](BSA03_HowToRequirements/ex01__SHOP_brainstorming.pdf)  
+- [`BSA03_HowToRequirements/ex01__SHOP_brainstorming.pdf`](BSA03_HowToRequirements/ex01__SHOP__brainstorming.pdf)  
   В рамках задания зафиксированы результаты **brainstorming** (идеи/проблемы/гипотезы).  
   Навыки: генерация требований, структурирование идей.
 
-- [`BSA03_HowToRequirements/ex02__SHOP_seminar.pdf`](BSA03_HowToRequirements/ex02__SHOP_seminar.pdf)  
+- [`BSA03_HowToRequirements/ex02__SHOP_seminar.pdf`](BSA03_HowToRequirements/ex02__SHOP__seminar.pdf)  
   В рамках задания оформлены выводы **seminar** по требованиям.  
   Навыки: фасилитация обсуждений, фиксация решений.
 
-- [`BSA03_HowToRequirements/ex03__SHOP_vision.pdf`](BSA03_HowToRequirements/ex03__SHOP_vision.pdf)  
+- [`BSA03_HowToRequirements/ex03__SHOP_vision.pdf`](BSA03_HowToRequirements/ex03__SHOP__vision.pdf)  
   В файле сформирован документ **Vision** для **SHOP** (цели, контекст, ценность, границы).  
   Навыки: продуктовое мышление, формирование видения и scope.
 
