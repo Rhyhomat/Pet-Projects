@@ -334,15 +334,15 @@
 ### 4.8. BSA07_UserStory
 **Фокус:** User Stories (HAIR).
 
-- [`BSA07_UserStory/ex00_HAIR_us_MANAGER_.pdf`](BSA07_UserStory/ex00_HAIR_us_MANAGER_.pdf)  
+- [`BSA07_UserStory/ex00_HAIR_us_MANAGER_.pdf`](BSA07_UserStory/ex00__HAIR__us__MANAGER_.pdf)  
   В рамках задания сформированы User Stories для роли **Manager** в домене **HAIR**.  
   Навыки: user-centric требования, ценность/цель, критерии приемки.
 
-- [`BSA07_UserStory/ex01_HAIR_us_Client, Guest Website Visitor, Master, Accountant_.pdf`](BSA07_UserStory/ex01_HAIR_us_Client,%20Guest%20Website%20Visitor,%20Master,%20Accountant_.pdf)  
+- [`BSA07_UserStory/ex01_HAIR_us_Client, Guest Website Visitor, Master, Accountant_.pdf`](BSA07_UserStory/ex01__HAIR__us__Client,20%Guest20%Website20%Visitor,20%Master,20%Accountant_.pdf)  
   В рамках задания сформированы User Stories для ролей: Client / Guest Website Visitor / Master / Accountant.  
   Навыки: покрытие ролей, согласование ожиданий разных пользователей.
 
-- [`BSA07_UserStory/ex02_HAIR_us.pdf`](BSA07_UserStory/ex02_HAIR_us.pdf)  
+- [`BSA07_UserStory/ex02_HAIR_us.pdf`](BSA07_UserStory/ex02__HAIR__us.pdf)  
   В рамках задания оформлен итоговый документ по User Stories (компоновка/согласование/протокол).  
   Навыки: консолидация требований, управление набором US.
 
